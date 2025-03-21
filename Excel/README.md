@@ -1,4 +1,4 @@
-# Sales Performance Dashboard - Excel
+# Sales Performance Dashboard
 
 ## Descripción del Proyecto
 Este dashboard interactivo analiza el desempeño de ventas de Adventure Works, proporcionando información visual sobre tendencias de ventas, rendimiento de los empleados, participación de productos en ingresos y desempeño por región.
