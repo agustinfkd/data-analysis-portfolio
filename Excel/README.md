@@ -8,7 +8,7 @@ Diseñado para facilitar la toma de decisiones, este dashboard permite a los usu
 ## Estructura del Dashboard
 El archivo de Excel contiene varias hojas que organizan la información:
 
-## Dashboard (Página Principal)
+### Dashboard (Página Principal)
 El dashboard presenta los siguientes elementos:
 - Sales Trend (Tendencia de Ventas)
 	- Gráfico de líneas que muestra la evolución de las ventas mensuales a lo largo de los años 2018 y 2019.
@@ -26,21 +26,21 @@ El dashboard presenta los siguientes elementos:
 	- Vendedor: Muestra los datos de ventas de empleados específicos.
 	- Ítem: Permite seleccionar productos específicos para analizar su desempeño.
 
-## Sales Trends (Tendencias de Ventas)
+### Sales Trends (Tendencias de Ventas)
 - Análisis de ventas anuales y mensuales.
 - Comparación de ingresos actuales con años previos.
 - Representación gráfica del crecimiento o decrecimiento de ventas.
 
-## Sales by Region (Ventas por Región)
+### Sales by Region (Ventas por Región)
 - Tabla con ingresos por estado o territorio.
 - Identificación de las regiones más rentables.
 - Mapas y gráficos que visualizan el desempeño regional.
 
-## Sales by Employee (Ventas por Empleado)
+### Sales by Employee (Ventas por Empleado)
 - Comparación del desempeño individual de los vendedores.
 - Ranking de los empleados con mejores ventas.
 - Análisis de crecimiento en ventas por persona.
 
-## Item Share & Customer Revenue
+### Item Share & Customer Revenue
 - Productos más vendidos y su contribución a los ingresos.
 - Análisis del impacto de los clientes en los ingresos generales.
