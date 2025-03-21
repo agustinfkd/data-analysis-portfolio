@@ -24,3 +24,10 @@ Se creó una tabla de trabajo (layoffs_staging) para realizar las transformacion
 
 ## Parte 2: Análisis Exploratorio (exploratory data analysis project.sql)
 Se realizaron consultas para entender mejor el dataset y extraer información relevante.
+
+## Consultas:
+- Visualización de las primeras 10 filas del dataset.
+- Conteo de registros totales.
+- Identificación de valores nulos en las principales columnas (company, industry, total_laid_off).
+- Cálculo del número total de despidos por industria y empresa.
+- Análisis de tendencias temporales en despidos.
