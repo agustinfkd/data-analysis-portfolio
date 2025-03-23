@@ -34,7 +34,7 @@ Es el dashboard principal del archivo:
 
 Compara los valores reales vs. planificados por categoría y mes.
 
-Incluye gráficos de barras y donuts para representar:
+Incluye gráficos de barras y donas para representar:
 
 Gastos por categoría.
 
