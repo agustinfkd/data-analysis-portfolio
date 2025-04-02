@@ -12,7 +12,8 @@ Muestra la cantidad actual de empleados, desglosada por género y modalidad (Ful
 
  - Desvinculaciones
    - Cantidad total de empleados que se desvincularon por año.
-   - Incluye las malas contrataciones (desvinculaciones dentro del período de prueba, si aplica).
+   - Incluye las malas contrataciones.
+     
  - Motivo de la desvinculación
    - Gráfico de barras con clasificación de las salidas: voluntarias e involuntarias.
     
