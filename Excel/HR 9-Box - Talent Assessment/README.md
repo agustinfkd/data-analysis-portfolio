@@ -53,9 +53,7 @@ El sistema clasificará automáticamente a cada empleado en la Matriz 9-Box seg�
 
 3. Visualizar resultados:
 Consulta la hoja "9 Box":
-
   - Observa la cantidad de empleados en cada cuadrante.
-
   - Filtra por sector para actualizar dinámicamente la matriz y las listas de empleados.
 
 4. Desarrollar planes de acción:
