@@ -1,65 +1,67 @@
-# README - HR 9-Box - Talent Assessment
-## General Overview
-This Excel file is designed to evaluate employees' potential and performance, classify them within a 9-Box Matrix, and generate a development action plan.
+# RRHH - Matriz 9-Box y Evaluación de Talento
+## Descripción General
+Este archivo de Excel está diseñado para evaluar el potencial y el desempeño de los empleados, clasificarlos dentro de una Matriz 9-Box, y generar un plan de acción para su desarrollo profesional.
 
-## File Structure
-The workbook includes several sheets:
+## Estructura del Archivo
+El archivo contiene varias hojas:
 
 ### Información:
 
-  - Displays the 9-Box Matrix with descriptions for each category.
+- Muestra la Matriz 9-Box con descripciones para cada categoría.
 
-  - Defines how employees are classified based on their potential and performance scores.
+- Define cómo se clasifica a los empleados según sus puntuaciones de potencial y desempeño.
 
-  - Includes the calibration ranges for the scores.
+- Incluye las escalas de calibración utilizadas.
 
-  - Lists the evaluated sectors.
+- Lista los sectores evaluados.
 
 ### Evaluación:
 
-  - Contains the evaluation questionnaire.
+- Contiene el cuestionario de evaluación.
 
-  - Each question is scored from 1 to 5.
+- Cada pregunta se califica del 1 al 5.
 
-  - Calculates the average Potential score and average Performance score for each employee.
+- Calcula el promedio de Potencial y el promedio de Desempeño de cada empleado.
 
 ### Tabla:
 
-  - Consolidates employee information: name, department, position, age, years of experience, potential and performance scores, 9-Box classification, and last update date.
+- Consolida la información de los empleados: nombre, sector, puesto, edad, años de experiencia, puntuaciones de potencial y desempeño, clasificación en la matriz, y fecha de actualización.
 
 ### 9 Box:
 
-  - Visualizes the number of employees in each 9-Box category.
+- Visualiza la cantidad de empleados en cada cuadrante de la matriz.
 
-  - Includes a bar chart summarizing the distribution of employees.
+- Incluye un gráfico de barras con la distribución por categoría.
 
-  - Allows filtering by sector.
+- Permite filtrar por sector.
 
-  - When selecting a sector, a dynamic list of employees appears within each box, showing the names according to their classification.
+- Al seleccionar un sector, se actualiza una lista dinámica de empleados dentro de cada box, mostrando los nombres de acuerdo con su clasificación.
 
-## Plan de acción:
+### Plan de acción:
 
-  - Suggests development actions for selected employees based on their 9-Box classification.
+- Sugiere acciones de desarrollo para los empleados seleccionados según su clasificación en la matriz.
 
-  - Includes fields such as turnover risk, potential future positions, estimated timeline, training needs, recommended actions, and responsible parties.
+- Incluye campos como: riesgo de desvinculación, posibles cargos futuros, tiempo estimado, necesidades de capacitación, acciones recomendadas y responsables.
 
-## How to Use the File
-1. Evaluate employees:
-Complete the evaluation questionnaire for each employee on the "Evaluación" sheet (both Potential and Performance sections).
+## ¿Cómo utilizar el archivo?
+1. Evaluar a los empleados:
+Completa el cuestionario de evaluación para cada empleado en la hoja "Evaluación" (secciones de Potencial y Desempeño).
 
-2. Update the main table:
-Enter the calculated averages into the "Tabla" sheet.
-The system will automatically classify each employee within the 9-Box Matrix based on the calibrated scoring ranges.
+2. Actualizar la tabla principal:
+Ingresa los promedios calculados en la hoja "Tabla".
+El sistema clasificará automáticamente a cada empleado en la Matriz 9-Box según las escalas de calibración establecidas.
 
-3. View results:
-Check the "9 Box" sheet:
-  - See the number of employees in each box.
-  - Filter by sector to dynamically update the matrix and employee lists.
+3. Visualizar resultados:
+Consulta la hoja "9 Box":
 
-4. Develop action plans:
-Define development strategies for selected employees using the "Plan de acción" sheet, according to their classification and turnover risk.
+- Observa la cantidad de empleados en cada cuadrante.
 
-## Additional Notes
-  - Scores range from 1 to 5, where 1 indicates low demonstration of the attribute and 5 indicates consistent and strong demonstration.
+- Filtra por sector para actualizar dinámicamente la matriz y las listas de empleados.
 
-  - Employee classification in the 9-Box Matrix is based on the combination of Potential and Performance averages, according to the calibration ranges listed on the "Información" sheet.
+4. Desarrollar planes de acción:
+Define estrategias de desarrollo para los empleados seleccionados usando la hoja "Plan de acción", considerando su clasificación y el riesgo de desvinculación.
+
+## Notas Adicionales
+- Las puntuaciones van del 1 al 5, donde 1 indica baja demostración del atributo y 5 indica una demostración consistente y sólida.
+
+- La clasificación de los empleados en la Matriz 9-Box se basa en la combinación de los promedios de Potencial y Desempeño, de acuerdo a los rangos de calibración establecidos en la hoja "Información".
