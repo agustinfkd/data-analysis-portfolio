@@ -1,4 +1,4 @@
-- README - HR 9-Box - Talent Assessment
+* README - HR 9-Box - Talent Assessment
 -- General Overview
 This Excel file is designed to evaluate employees' potential and performance, classify them within a 9-Box Matrix, and generate a development action plan.
 
