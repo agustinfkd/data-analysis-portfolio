@@ -3,7 +3,6 @@
 Este proyecto explora factores que podrían influir en la rotación de empleados utilizando un dataset de IBM (IBM HR Attrition Dataset, publicado en Kaggle).  
 El objetivo es descubrir patrones relacionados con la satisfacción laboral, el ingreso mensual y el desempeño, para apoyar decisiones estratégicas desde el área de Recursos Humanos.
 
----
 
 ## Contenido del repositorio
 
@@ -11,7 +10,6 @@ El objetivo es descubrir patrones relacionados con la satisfacción laboral, el 
 - `WA_Fn-UseC_-HR-Employee-Attrition.csv`: dataset original utilizado (IBM HR Attrition Dataset).
 - `README.md`: descripción general del proyecto.
 
----
 
 ## Principales análisis realizados
 
@@ -21,7 +19,6 @@ El objetivo es descubrir patrones relacionados con la satisfacción laboral, el 
 - Comparación entre desempeño y satisfacción
 - Rotación por departamento
 
----
 
 ## Herramientas utilizadas
 
@@ -29,7 +26,6 @@ El objetivo es descubrir patrones relacionados con la satisfacción laboral, el 
 - Jupyter Notebook
 - Visual Studio Code
 
----
 
 ## Conclusiones destacadas
 
