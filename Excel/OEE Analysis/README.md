@@ -56,7 +56,7 @@ El archivo está dividido en varias hojas con dashboards y datos base:
 
 ## Objetivos
 
-- Monitorear en tiempo real el desempeño de la planta.
+- Monitorear el desempeño de la planta.
 
 - Identificar cuellos de botella y pérdidas significativas.
 
