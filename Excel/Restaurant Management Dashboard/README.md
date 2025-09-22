@@ -20,7 +20,7 @@ El objetivo es ofrecer una herramienta clara y visual para apoyar la toma de dec
 ## ⚙️ Proceso de preparación de datos
 
 - Dataset original obtenido de Kaggle:
-Restaurant Cost and Sales Dataset: https://www.kaggle.com/datasets/virtualschool/restaurant-cost-and-sales-dataset/data
+https://www.kaggle.com/datasets/virtualschool/restaurant-cost-and-sales-dataset/data
 
 - Se trabajó con Power Query para:
 
